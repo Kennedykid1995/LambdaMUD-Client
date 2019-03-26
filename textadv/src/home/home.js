@@ -22,7 +22,6 @@ const NavItem = styled(NavLink)`
       }
 `
 class Home extends Component{
-
     render(){
         return(
         <AppHeader>
