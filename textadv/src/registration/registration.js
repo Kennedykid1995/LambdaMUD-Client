@@ -162,10 +162,6 @@ class Registration extends Component {
     return (
       <OuterBox>
         <RegBox>
-          <BarTop />
-          <BarRightDelay />
-          <BarBottomDelay />
-          <BarLeft />
           <h1>Join the fun,</h1>
           <h1>Create a User</h1>
           <InputBox className="registration-form">

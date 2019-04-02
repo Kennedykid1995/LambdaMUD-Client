@@ -168,7 +168,6 @@ class Login extends Component {
       <RegHolder>
         <OuterBox>
           <RegBox>
-          
             <h1>Welcome Back,</h1>
             <h1>Login</h1>
             <InputBox className="login-form" onSubmit={this.handleLogin}>
