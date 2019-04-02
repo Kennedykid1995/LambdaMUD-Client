@@ -110,7 +110,8 @@ const Input = styled.input`
   text-decoration: none;
 `;
 const Btn = styled.button`
-    width: 400px
+    width: 400px;
+    height: 30px;
 `
 class Login extends Component {
   constructor(props) {
