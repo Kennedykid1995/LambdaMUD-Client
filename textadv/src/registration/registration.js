@@ -165,7 +165,7 @@ class Registration extends Component {
         <RegBox>
           <h1>Join the fun,</h1>
           <h1>Create a User</h1>
-          <InputBox className="registration-form">
+          <InputBox className="registration-form" onSubmit={this.registerHandler}>
             <Input
               name="username"
               placeholder="Username"
